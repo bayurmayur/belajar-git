@@ -1,0 +1,48 @@
+body {
+    text-align: center;
+    background : #66b3ff url('twitter-logo.png') scroll;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: #003366;
+}
+
+p {
+    text-align: center;
+    color: white;
+    background-color: black;
+}
+
+h2 {
+    text-align: center;
+    color: white;
+    background-color: black;
+    width: 900px;   
+}
+
+div {
+    background-color: lightblue;
+}
+
+a {
+    text-decoration: none;
+    color: #ff6600;
+}
+
+a:hover {
+    text-decoration: underline;
+    color: red;
+}
+
+.kotak {
+    align-items: center;
+    width: 300px;
+    height: 100px;
+    border: 15px solid black;
+    padding: 50px;
+    margin: 20px;
+    overflow: scroll;
+  }
+
+.tulisanMerah {
+    color : red;
+    background: white;
+}
